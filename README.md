@@ -116,4 +116,5 @@ Sample response of the ``get_domain`` method
   "error": null
 }
 ```
+<<<<<<< HEAD
 #### Note: This is not an official unsend library.
