@@ -2,8 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name="UnsendCommunity",
-    version='0.3.0',
-    description='An unsend library for Python developers',
+    version='0.3.2',
+    description='A package for sending and managing emails with the Unsend API',
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     author='Harsh Bhat',
     author_email='harsh121102@gmail.com',
     packages=find_packages(include=['unsendcommunity', 'unsendcommunity.*']),

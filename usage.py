@@ -18,9 +18,9 @@ response = client.send_email(payload)
 print("Send Email Response:", response)
 
 
-email_id = 'lz55zzjz00054y9xafk9npj9' 
+email_id = 'clz6iydbu000d8kmcjnf4aimv' 
 email_response = client.get_email(email_id)
 print("Get Email Response:", email_response)
 
-# domain_response = client.get_domain()
-# print("Get Domain Response:", domain_response)
+domain_response = client.get_domain()
+print("Get Domain Response:", domain_response)

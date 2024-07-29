@@ -1,18 +1,3 @@
-Metadata-Version: 2.1
-Name: UnsendCommunity
-Version: 0.3.2
-Summary: A package for sending and managing emails with the Unsend API
-Home-page: UNKNOWN
-Author: Harsh Bhat
-Author-email: harsh121102@gmail.com
-License: UNKNOWN
-Platform: UNKNOWN
-Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
-Classifier: Operating System :: OS Independent
-Requires-Python: >=3.6
-Description-Content-Type: text/markdown
-
 # Unsend Python Package
 The Unsend Python package lets you interact with the Unsend API to send and manage emails as well as domains. This README provides a quick guide on using the package to send emails and retrieve email information.
 
@@ -132,4 +117,3 @@ Sample response of the ``get_domain`` method
 }
 ```
 #### Note: This is not an official unsend library.
-

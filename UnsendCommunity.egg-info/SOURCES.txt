@@ -1,4 +1,5 @@
 MANIFEST.in
+README.md
 setup.py
 UnsendCommunity.egg-info/PKG-INFO
 UnsendCommunity.egg-info/SOURCES.txt
@@ -8,3 +9,4 @@ UnsendCommunity.egg-info/top_level.txt
 unsendcommunity/__init__.py
 unsendcommunity/sdk.py
 unsendcommunity/__pycache__/__init__.cpython-310.pyc
+unsendcommunity/__pycache__/sdk.cpython-310.pyc
